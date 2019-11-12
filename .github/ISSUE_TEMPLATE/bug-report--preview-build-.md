@@ -1,6 +1,6 @@
 ---
 name: Bug report (preview build)
-about: Create a report to help us improve impulse
+about: Only use this if the bug is found in the preview build!
 title: ''
 labels: bug, previewbuild
 assignees: vingard
